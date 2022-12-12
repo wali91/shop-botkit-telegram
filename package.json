@@ -14,7 +14,7 @@
     "botkit-adapter-telegram": "^0.1.6",
     "botkit-plugin-cms": "^1.0.3",
     "dotenv": "^7.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "midtrans-client": "^1.1.0"
   }
 }
